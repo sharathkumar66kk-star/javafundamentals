@@ -9,3 +9,6 @@ The switch statement selects one execution path from multiple options.
 
 ## When to use
 - When comparing one variable against many fixed values
+- 
+## Important rule
+Without break, execution continues to the next case (fall-through).
