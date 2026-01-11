@@ -1,5 +1,4 @@
-'''java
-public class DataTypesDemo {
+public class DataTypeDemo {
     public static void main(String[] args) {
         int age = 20;
         double marks = 85.5;
@@ -10,6 +9,9 @@ public class DataTypesDemo {
         System.out.println(marks);
         System.out.println(grade);
         System.out.println(passed);
+        
     }
 }
-'''
+
+    
+
