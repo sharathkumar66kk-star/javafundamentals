@@ -1,4 +1,4 @@
-This folder contains java basic concepts 
+This folder contains Java basic concepts 
 such as :
 1.Variables 
 2.Data types 
