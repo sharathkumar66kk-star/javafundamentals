@@ -8,6 +8,7 @@ Each topic includes source code, explanation, and output.
 - Java basics (variables, data types, operators)
 - Control flow (if-else, switch, loops)
 - Methods (basics and parameters)
+- User input handling (Scanner, input buffer issues)
 - Introduction to OOP (class and object)
 
 
