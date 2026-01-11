@@ -1,3 +1,4 @@
+```java
 public class DataTypesDemo {
     public static void main(String[] args) {
         int age = 20;
@@ -11,3 +12,4 @@ public class DataTypesDemo {
         System.out.println(passed);
     }
 }
+```
