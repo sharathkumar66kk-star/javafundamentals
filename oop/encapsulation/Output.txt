@@ -1,2 +1,5 @@
+##  Output for Encapsulation with Validation
+Invalid name
+Age must be positive
 Alex
 20
