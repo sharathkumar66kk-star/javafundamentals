@@ -1,0 +1,2 @@
+This is parent class
+This is child class
