@@ -1,5 +1,5 @@
 package studentmanagement;
-
+//package declaration is importanr because when you set all related classes in the package you can run code withour errors 
 public class Student {
     private int id;
     private String name;
