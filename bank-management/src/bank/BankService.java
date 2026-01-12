@@ -1,5 +1,4 @@
 package bank;
-
 public class BankService {
 
     public void deposit(Account account, double amount) {

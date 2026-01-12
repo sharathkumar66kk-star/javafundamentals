@@ -2,9 +2,9 @@ package bank;
 
 public class Account {
 
-    private int accountNumber;
-    private String holderName;
-    private double balance;
+    private int accountNumber ;
+    private String holderName ;
+    private double balance ;
 
     // Constructor
     public Account(int accountNumber, String holderName, double balance) {

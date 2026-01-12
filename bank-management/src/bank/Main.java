@@ -2,7 +2,7 @@ package bank;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main (String[] args) {
 
         Account account = new Account(101, "Sharath", 5000.0);
         BankService service = new BankService();
